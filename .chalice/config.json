@@ -1,0 +1,12 @@
+{
+  "version": "2.0",
+  "app_name": "aws-book-company",
+  "iam_policy_file": "policy.json",
+  "api_gateway_stage": "dev",
+  "autogen_policy": false,
+  "stages": {
+    "prod": {
+      "api_gateway_stage": "api"
+    }
+  }
+}
