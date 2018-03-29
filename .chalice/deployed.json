@@ -1,7 +1,7 @@
 {
   "dev": {
-    "api_handler_name": "aws-book-company-dev",
-    "api_handler_arn": "arn:aws:lambda:eu-west-1:009127507915:function:aws-book-company-dev",
+    "api_handler_name": "aws-chalice-example-dev",
+    "api_handler_arn": "arn:aws:lambda:eu-west-1:009127507915:function:aws-chalice-example-dev",
     "lambda_functions": {},
     "backend": "api",
     "chalice_version": "1.1.1",

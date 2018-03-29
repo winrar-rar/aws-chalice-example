@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "app_name": "aws-book-company",
+  "app_name": "aws-chalice-example",
   "iam_policy_file": "policy.json",
   "api_gateway_stage": "dev",
   "autogen_policy": false,

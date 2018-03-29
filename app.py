@@ -6,7 +6,7 @@ import json
 from urllib.parse import urlparse, parse_qs
 import json
 
-app = Chalice(app_name='aws-book-company')
+app = Chalice(app_name='aws-chalice-example')
 app.debug = True
 
 cors_config = CORSConfig(
